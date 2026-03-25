@@ -2,6 +2,9 @@
 
 Find new movies to watch! If you have a letterboxd you can use that data, otherwise click to get started!
 
+## Web Link
+https://cinerecs.vercel.app
+
 ## Setup
 
 1. Install dependencies:
